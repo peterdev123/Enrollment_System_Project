@@ -1,1 +1,1 @@
-Object Oriented Programming. Runtime only, no database. No GUI involved.
+Object Oriented Programming project. Runtime only, no database. No GUI involved.
